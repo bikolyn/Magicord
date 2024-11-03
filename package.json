@@ -1,0 +1,19 @@
+{
+  "name": "magicordpages",
+  "version": "1.0.0",
+  "description": "The Website of the magicord discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello guys idk lol\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikoil/Magicord.git"
+  },
+  "author": "Bikoil",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Bikoil/Magicord/issues"
+  },
+  "homepage": "https://github.com/Bikoil/Magicord#readme"
+}
